@@ -1,0 +1,74 @@
+[
+  {
+    "id": "faq-001",
+    "question": "How do I create a Contoso account?",
+    "answer": "Visit contoso.com/register and fill in the form with your email address and a secure password. After registering, you will receive a confirmation email — click the link to activate your account.",
+    "category": "Account"
+  },
+  {
+    "id": "faq-002",
+    "question": "How do I reset my password?",
+    "answer": "On the login page, click 'Forgot password', enter your email address, and follow the instructions in the email we send you. The reset link is valid for 24 hours.",
+    "category": "Account"
+  },
+  {
+    "id": "faq-003",
+    "question": "What subscription plans does Contoso offer?",
+    "answer": "Contoso offers three plans: Starter (free, up to 5 users), Business ($29/month, up to 25 users, includes priority support), and Enterprise (custom pricing, unlimited users, SLA guarantee, and a dedicated account manager).",
+    "category": "Subscription"
+  },
+  {
+    "id": "faq-004",
+    "question": "Can I upgrade or downgrade my plan at any time?",
+    "answer": "Yes, plan changes are possible at any time. An upgrade takes effect immediately and is billed on a pro-rata basis. A downgrade becomes active at the end of the current billing period.",
+    "category": "Subscription"
+  },
+  {
+    "id": "faq-005",
+    "question": "What payment methods does Contoso accept?",
+    "answer": "We accept credit card (Visa, Mastercard, Amex), PayPal, and SEPA direct debit. Annual billing includes 2 months free.",
+    "category": "Billing"
+  },
+  {
+    "id": "faq-006",
+    "question": "How do I get an invoice?",
+    "answer": "Invoices are sent automatically by email after each payment and are also available under Settings → Billing → Invoice history. Invoices can be downloaded as PDF.",
+    "category": "Billing"
+  },
+  {
+    "id": "faq-007",
+    "question": "How do I add new team members?",
+    "answer": "Go to Settings → Team → Invite member, enter the email address, and select a role (Admin, Editor, or Viewer). The invited person will receive an email with an activation link.",
+    "category": "Team"
+  },
+  {
+    "id": "faq-008",
+    "question": "How do I remove a team member?",
+    "answer": "Under Settings → Team, click the three dots next to any member and select 'Remove member'. Access is revoked immediately. The member's content remains in the workspace.",
+    "category": "Team"
+  },
+  {
+    "id": "faq-009",
+    "question": "How do I contact Contoso support?",
+    "answer": "Our support team is available by email (support@contoso.com), live chat on contoso.com (Mon–Fri 8am–6pm), and by phone for Business and Enterprise customers at +1 800 266 8676. Typical email response time: under 4 hours.",
+    "category": "Support"
+  },
+  {
+    "id": "faq-010",
+    "question": "Is there a free trial for paid plans?",
+    "answer": "Yes, the Business plan can be trialed free for 14 days — no credit card required. After the trial, your account is automatically downgraded to the free Starter plan with no data loss.",
+    "category": "Subscription"
+  },
+  {
+    "id": "faq-011",
+    "question": "How do I export my data from Contoso?",
+    "answer": "Under Settings → Data → Export, you can download all your data as a ZIP archive (JSON + CSV). The export is delivered by email within 30 minutes. Exports are unlimited and available at any time.",
+    "category": "Data"
+  },
+  {
+    "id": "faq-012",
+    "question": "How secure is my data at Contoso?",
+    "answer": "All data is stored with AES-256 encryption and transmitted over TLS 1.3. Contoso is ISO 27001 certified and GDPR compliant. Data centres are located exclusively in the EU (Frankfurt and Amsterdam).",
+    "category": "Security"
+  }
+]

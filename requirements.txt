@@ -1,0 +1,17 @@
+# FAQ Agent — Python dependencies
+# Versions verified on 2026-04-07
+
+# Microsoft Agent Framework
+agent-framework==1.0.0
+
+# Azure AI Search
+azure-search-documents==11.7.0b2
+
+# Azure Identity (authentication)
+azure-identity==1.25.3
+
+# Azure OpenAI (embeddings)
+openai==2.30.0
+
+# Load environment variables from .env
+python-dotenv==1.2.2
