@@ -1,6 +1,6 @@
 # Contoso FAQ Agent
 
-A minimal example showing how to build a RAG-based FAQ agent using the **Microsoft Agent Framework** — with Azure AI Search as the knowledge base and multi-turn conversations via `AgentSession`.
+An example showing how to build a RAG-based FAQ agent using the **Microsoft Agent Framework** — with Azure AI Search as the knowledge base and multi-turn conversations via `AgentSession`.
 
 ## What this project demonstrates
 
